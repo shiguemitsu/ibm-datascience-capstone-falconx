@@ -18,5 +18,5 @@ Enrique Kishimoto, IBM Maximo Consultant, SMC, Project Manager and future Data S
 
 ## Social Media
 * Coursera Info - https://www.coursera.org/professional-certificates/ibm-data-science
-* My Certificate - hhttps://coursera.org/share/18fa9be2a65afeed04127057134f83d0
+* My Certificate - https://coursera.org/share/18fa9be2a65afeed04127057134f83d0
 * LinkedIn - https://www.linkedin.com/in/shiguemitsu/
